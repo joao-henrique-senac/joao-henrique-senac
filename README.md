@@ -85,11 +85,11 @@ Atualmente aprendendo **HTML, CSS, Python, React, JavaScript, MySql,** para cons
  
 
 <p align="center">
-<a href= target="_blank">
+<a href= https://github.com/joao-henrique-senac target="_blank">
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github… alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nicolas-costa-093a00343/" target="_blank">
+<a href=www.linkedin.com/in/joão-batista-aa7ba0345 target="_blank">
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linked… alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
@@ -106,31 +106,7 @@ Atualmente aprendendo **HTML, CSS, Python, React, JavaScript, MySql,** para cons
 
  
 
-## 📊 GitHub Stats
-
- 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicolascosta17&show_icons=true&theme=noctis_min… height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolascosta17&layout=compact&langs_c… height="150" />
-</p>
-
  
 
 ---
-
- 
-
-## 🐍 Contribution Snake
-
- 
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolascosta17/Nicolas-Costa/output/github-contribution-grid-snak…
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolascosta17/Nicolas-Costa/output/github-contribution-grid-snak…
-<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/nicolascosta17/Nicolas-Costa/output/github-contribution-grid-snak…
-</picture>
-</p>
-
  
