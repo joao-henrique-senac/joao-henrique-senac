@@ -29,7 +29,7 @@ Currently learning **HTML, CSS, Python, React, JavaScript, MySQL** to build mode
 
  
 
-### 🇧🇷 Olá  
+### Olá  
 **Desenvolvedor Web Front-End**  
 Sou estudante de Desenvolvimento de Sistemas na instituição de ensino Senac São carlos e sou apaixonado por criar interfaces limpas e funcionais.  
 Atualmente aprendendo **HTML, CSS, Python, React, JavaScript, MySql,** para construir projetos modernos e responsivos.
