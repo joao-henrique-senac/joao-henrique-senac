@@ -79,34 +79,4 @@ Atualmente aprendendo **HTML, CSS, Python, React, JavaScript, MySql,** para cons
 ---
 
  
-
-## 🌐 Social
-
- 
-
-<p align="center">
-<a href= https://github.com/joao-henrique-senac target="_blank">
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github… alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href=www.linkedin.com/in/joão-batista-aa7ba0345 target="_blank">
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linked… alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="http://lattes.cnpq.br/4910465747510094" target="_blank">
-<img height="30" width="30" src="https://img.icons8.com/ios-filled/50/000000/graduation-cap.png" alt="Lattes" />
-</a>
-</p>
-
- 
-
- 
-
----
-
- 
-
- 
-
----
  
