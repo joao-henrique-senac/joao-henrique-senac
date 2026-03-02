@@ -13,13 +13,13 @@ joão henrique
 
 ### 🇺🇸 Hello  
 **FullStack Web Developer**  
-I’m a Software Development student passionate about building clean and functional interfaces.  
-Currently learning **HTML, CSS, Python, React, JavaScript, MySql** to create modern and responsive projects.
+I am a Systems Development student at Senac São Carlos and I am passionate about creating clean and functional interfaces.
+Currently learning **HTML, CSS, Python, React, JavaScript, MySQL** to build modern and responsive projects.
 
  
 
-- 🌍 From: Brazil  
-- 🌱 Focused on improving my portfolio  
+- 🐆 From: Brazil  
+- 🎯 Focused on improving my portfolio  
 - ⚡ Passionate about programming and network
 
  
@@ -31,14 +31,14 @@ Currently learning **HTML, CSS, Python, React, JavaScript, MySql** to create mod
 
 ### 🇧🇷 Olá  
 **Desenvolvedor Web Front-End**  
-Sou estudante de Desenvolvimento de Sistemas e apaixonado por criar interfaces limpas e funcionais.  
+Sou estudante de Desenvolvimento de Sistemas na instituição de ensino Senac São carlos e sou apaixonado por criar interfaces limpas e funcionais.  
 Atualmente aprendendo **HTML, CSS, Python, React, JavaScript, MySql,** para construir projetos modernos e responsivos.
 
  
 
-- 🌍 De: Brasil  
-- 🌱 Focado em melhorar meu portfólio  
-- ⚡ Apaixonado por programação e redes
+- 🐆 De: Brasil  
+- 🎯 Focado em melhorar meu portfólio  
+- ⚡ Apaixonado por programação 
 
  
 
@@ -52,7 +52,7 @@ Atualmente aprendendo **HTML, CSS, Python, React, JavaScript, MySql,** para cons
 
  
 
-## 🚀 Skills
+##  Skills
 
  
 
@@ -85,7 +85,7 @@ Atualmente aprendendo **HTML, CSS, Python, React, JavaScript, MySql,** para cons
  
 
 <p align="center">
-<a href="https://github.com/nicolascosta17" target="_blank">
+<a href= target="_blank">
 <img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github… alt="GitHub" />
 </a>
 &nbsp;&nbsp;
