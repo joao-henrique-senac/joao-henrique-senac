@@ -1,4 +1,4 @@
-![BcsoGIF](https://github.com/user-attachments/assets/4fad8acd-203a-4d67-9c8d-8a5853faa9e6)
+
 joão henrique 
 02/03/2026 19:16
 # João henrique 👋
@@ -11,8 +11,7 @@ joão henrique
 
  
 
-### ![BcsoGIF (2)](https://github.com/user-attachments/assets/620299f9-1fb4-4d61-a804-10866441f67c)
- Hello  
+### Hello  
 **FullStack Web Developer**  
 I am a Systems Development student at Senac São Carlos and I am passionate about creating clean and functional interfaces.
 Currently learning **HTML, CSS, Python, React, JavaScript, MySQL** to build modern and responsive projects.
